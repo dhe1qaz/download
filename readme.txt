@@ -1,1 +1,1 @@
-this is my git documenr
+this is my git document
